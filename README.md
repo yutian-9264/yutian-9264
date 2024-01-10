@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yutian-9264
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m on the road to become a hacker.
 
 
 <!---
